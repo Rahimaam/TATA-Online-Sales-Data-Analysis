@@ -1,1 +1,1 @@
-# TATA-Online-Retail-Data-analysis
+# TATA-Online-Sales-Data-analysis
